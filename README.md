@@ -3,3 +3,8 @@ im try to create in base sdk
 give me luck
 
 thanks!
+
+
+fn main() {
+    println!("Hello, Baseee!");
+}
